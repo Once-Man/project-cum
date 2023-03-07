@@ -1,0 +1,48 @@
+<div class="card">
+    <div class="card-header">
+        <h4 class="font-weiht-bold">Add New Customers</h4>
+    </div>
+    <div class="card-body">
+        <form action="/addCustomer" id="add_customer_form" method="POST">
+            <div class="row">
+                <div class="col-6">
+                    <div class="form-group">
+                        <label for="firstname" class="col-form-label">First Name</label>
+                        <input type="text" class="form-control" name="firstname" id="firstname" placeholder="Enter firstname">
+                       
+                    </div>
+                </div>
+                <div class="col-6">
+                    <div class="form-group">
+                        <label for="lastname" class="col-form-label">Last Name</label>
+                        <input type="text" class="form-control" name="lastname" id="lastname" placeholder="Enter lastname">
+                        
+                    </div>
+                </div>
+                <div class="col-6">
+                    <div class="form-group">
+                        <label for="phonenumber" class="col-form-label">Phone Number</label>
+                        <input type="text" class="form-control" name="phonenumber" id="phonenumber" placeholder="Enter phonenumber">
+                    </div>
+                </div>
+                <div class="col-6">
+                    <div class="form-group">
+                        <label for="cnic" class="col-form-label">CNIC</label>
+                        <input type="text" class="form-control" name="cnic" placeholder="2222-2222222-22">
+                    </div>
+                </div>
+                <div class="col-12">
+                    <div class="form-group">
+                        <label for="address">Address</label>
+                       <textarea name="address" id="address" rows="3" class="form-control"></textarea>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="py-3">
+                <button class="btn btn-success" type="submit">Submit</button>
+                <a href="/" class="btn btn-light">Cancel</a>
+            </div>
+        </form>
+    </div>
+</div>

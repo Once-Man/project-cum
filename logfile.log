@@ -1,0 +1,883 @@
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:26:37.635Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:26:55.632Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:26:58.911Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:27:08.843Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:27:44.937Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:29:57.876Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:30:08.078Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:30:10.253Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:30:25.659Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:30:26.989Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:30:32.280Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:30:35.983Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:30:46.637Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:30:51.413Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:31:02.803Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:31:12.380Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:31:13.736Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:31:15.095Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:31:31.795Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:31:57.570Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:33:04.116Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:33:15.803Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:33:17.143Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:33:19.382Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:33:26.242Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:33:31.514Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:34:54.557Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:35:07.935Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:35:12.807Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:35:19.484Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:35:20.806Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:35:22.088Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:35:35.112Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:35:39.543Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:35:40.889Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:35:42.060Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:35:55.712Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:35:58.965Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:36:01.063Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:36:02.862Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:36:09.514Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:36:11.794Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:36:16.708Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:36:23.727Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:36:27.636Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:36:32.698Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:36:37.691Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:36:42.227Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:36:54.364Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:37:05.326Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:37:10.945Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:37:14.007Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:37:17.867Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:37:20.330Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:37:23.269Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:37:31.121Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:37:34.069Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:37:37.276Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:37:38.999Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:37:43.892Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:37:46.682Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:37:48.922Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:37:52.525Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:38:07.519Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:38:10.045Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:38:12.638Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:38:27.402Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:38:29.666Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:38:37.229Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:38:42.396Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:38:55.333Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:39:05.784Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:40:02.492Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:40:08.692Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:40:12.085Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:40:14.803Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:40:17.283Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:40:18.295Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:40:29.709Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:40:30.979Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:40:38.985Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:40:41.282Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:40:47.724Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:40:49.048Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:40:50.356Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:40:53.939Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:41:05.004Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:41:07.659Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:41:15.452Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:41:20.032Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:41:22.250Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:41:24.191Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:41:26.058Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:41:27.236Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:41:36.135Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:41:40.915Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:41:44.430Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:41:47.687Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:41:49.337Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:41:56.974Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:42:00.202Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:42:13.601Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:42:15.617Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:42:24.618Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:42:30.858Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:42:48.876Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:43:05.600Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:43:11.081Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:43:17.752Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:43:20.769Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:43:25.829Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:43:27.537Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:43:31.077Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:44:26.104Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:44:33.600Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:44:35.246Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:45:14.948Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:45:17.274Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:45:20.988Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:45:33.968Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:45:41.213Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:45:45.201Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:45:48.221Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:45:50.490Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:45:53.511Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:45:56.418Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:46:00.056Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:46:01.744Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:46:03.950Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:46:07.038Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:46:20.224Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:46:32.401Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:46:35.147Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:46:42.007Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:46:47.292Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:47:06.023Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:47:10.681Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:47:12.549Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:47:13.753Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:47:27.202Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:47:34.933Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:47:37.076Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:47:41.134Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:47:50.795Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:48:14.907Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:48:16.892Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:48:32.509Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:48:37.329Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:48:48.164Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:48:58.150Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:49:04.838Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:49:11.796Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:49:23.811Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:49:27.307Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:49:35.365Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:49:37.580Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:49:42.085Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:49:46.426Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:49:54.431Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:49:58.390Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:49:59.786Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:50:05.569Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:50:07.703Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:50:10.951Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:50:14.405Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:51:15.092Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T06:51:19.356Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T07:19:02.283Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T07:19:10.217Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T07:19:11.988Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T07:19:14.388Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T07:19:16.261Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T07:19:37.824Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T07:21:02.042Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T07:21:03.225Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T07:21:04.766Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T07:21:17.034Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T07:21:44.690Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T07:21:46.539Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T07:21:47.840Z"}
+{"level":"info","message":"App is listining onundefined","timestamp":"2023-02-28T07:22:16.914Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T07:22:16.928Z"}
+{"level":"info","message":"App is listining onundefined","timestamp":"2023-02-28T07:22:26.333Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T07:22:26.347Z"}
+{"level":"info","message":"App is listining onundefined","timestamp":"2023-02-28T07:22:42.133Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T07:22:42.147Z"}
+{"level":"info","message":"App is listining onundefined","timestamp":"2023-02-28T07:22:45.198Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T07:22:45.212Z"}
+{"level":"info","message":"App is listining onundefined","timestamp":"2023-02-28T07:23:57.736Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T07:23:57.749Z"}
+{"level":"info","message":"App is listining onundefined","timestamp":"2023-02-28T07:24:00.261Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T07:24:00.275Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T07:24:08.349Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T07:24:08.362Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T07:25:50.494Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T07:25:50.508Z"}
+{"message":"Unexpected token '>' in D:\\project\\views\\customerlist.ejs while compiling ejs\n\nIf the above error is not helpful, you may want to try EJS-Lint:\nhttps://github.com/RyanZim/EJS-Lint\nOr, if you meant to create an async function, pass `async: true` as an option.","stack":"SyntaxError: Unexpected token '>' in D:\\project\\views\\customerlist.ejs while compiling ejs\n\nIf the above error is not helpful, you may want to try EJS-Lint:\nhttps://github.com/RyanZim/EJS-Lint\nOr, if you meant to create an async function, pass `async: true` as an option.\n    at new Function (<anonymous>)\n    at Template.compile (D:\\project\\node_modules\\ejs\\lib\\ejs.js:673:12)\n    at Object.compile (D:\\project\\node_modules\\ejs\\lib\\ejs.js:398:16)\n    at handleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:235:18)\n    at tryHandleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:274:16)\n    at exports.renderFile [as engine] (D:\\project\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (D:\\project\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (D:\\project\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (D:\\project\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (D:\\project\\node_modules\\express\\lib\\response.js:1039:7)","level":"error","timestamp":"2023-02-28T07:45:19.718Z"}
+{"message":"Unexpected token '>' in D:\\project\\views\\customerlist.ejs while compiling ejs\n\nIf the above error is not helpful, you may want to try EJS-Lint:\nhttps://github.com/RyanZim/EJS-Lint\nOr, if you meant to create an async function, pass `async: true` as an option.","stack":"SyntaxError: Unexpected token '>' in D:\\project\\views\\customerlist.ejs while compiling ejs\n\nIf the above error is not helpful, you may want to try EJS-Lint:\nhttps://github.com/RyanZim/EJS-Lint\nOr, if you meant to create an async function, pass `async: true` as an option.\n    at new Function (<anonymous>)\n    at Template.compile (D:\\project\\node_modules\\ejs\\lib\\ejs.js:673:12)\n    at Object.compile (D:\\project\\node_modules\\ejs\\lib\\ejs.js:398:16)\n    at handleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:235:18)\n    at tryHandleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:274:16)\n    at exports.renderFile [as engine] (D:\\project\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (D:\\project\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (D:\\project\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (D:\\project\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (D:\\project\\node_modules\\express\\lib\\response.js:1039:7)","level":"error","timestamp":"2023-02-28T07:45:23.204Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T07:45:38.616Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T07:45:38.630Z"}
+{"message":"Unexpected token '>' in D:\\project\\views\\customerlist.ejs while compiling ejs\n\nIf the above error is not helpful, you may want to try EJS-Lint:\nhttps://github.com/RyanZim/EJS-Lint\nOr, if you meant to create an async function, pass `async: true` as an option.","stack":"SyntaxError: Unexpected token '>' in D:\\project\\views\\customerlist.ejs while compiling ejs\n\nIf the above error is not helpful, you may want to try EJS-Lint:\nhttps://github.com/RyanZim/EJS-Lint\nOr, if you meant to create an async function, pass `async: true` as an option.\n    at new Function (<anonymous>)\n    at Template.compile (D:\\project\\node_modules\\ejs\\lib\\ejs.js:673:12)\n    at Object.compile (D:\\project\\node_modules\\ejs\\lib\\ejs.js:398:16)\n    at handleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:235:18)\n    at tryHandleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:274:16)\n    at exports.renderFile [as engine] (D:\\project\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (D:\\project\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (D:\\project\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (D:\\project\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (D:\\project\\node_modules\\express\\lib\\response.js:1039:7)","level":"error","timestamp":"2023-02-28T07:45:55.271Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T07:50:16.159Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T07:50:16.173Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T07:51:56.671Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T07:51:56.685Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T07:52:31.456Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T07:52:31.471Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T07:52:37.671Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T07:52:37.686Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T07:54:21.010Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T07:54:21.024Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T08:07:36.107Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T08:07:36.121Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T08:07:38.447Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T08:07:38.461Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T08:07:45.076Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T08:07:45.090Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T08:08:07.887Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T08:08:07.901Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T08:14:04.882Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T08:14:04.897Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T08:19:57.471Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T08:19:57.485Z"}
+{"message":"Joi.String is not a function","stack":"TypeError: Joi.String is not a function\n    at validateCustomer (D:\\project\\models\\customers.js:36:23)\n    at addCustomer (D:\\project\\controllers\\customerController.js:16:21)\n    at Layer.handle [as handle_request] (D:\\project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\project\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (D:\\project\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (D:\\project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\project\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (D:\\project\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (D:\\project\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (D:\\project\\node_modules\\express\\lib\\router\\index.js:175:3)","level":"error","timestamp":"2023-02-28T08:20:04.789Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T08:23:45.648Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T08:23:45.662Z"}
+{"message":"Joi.String is not a function","stack":"TypeError: Joi.String is not a function\n    at validateCustomer (D:\\project\\models\\customers.js:36:23)\n    at addCustomer (D:\\project\\controllers\\customerController.js:16:21)\n    at Layer.handle [as handle_request] (D:\\project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\project\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (D:\\project\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (D:\\project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\project\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (D:\\project\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (D:\\project\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (D:\\project\\node_modules\\express\\lib\\router\\index.js:175:3)","level":"error","timestamp":"2023-02-28T08:24:11.547Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T08:35:31.754Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T08:35:31.767Z"}
+{"message":"Joi.String is not a function","stack":"TypeError: Joi.String is not a function\n    at validateCustomer (D:\\project\\models\\customers.js:36:23)\n    at addCustomer (D:\\project\\controllers\\customerController.js:16:21)\n    at Layer.handle [as handle_request] (D:\\project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\project\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (D:\\project\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (D:\\project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\project\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (D:\\project\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (D:\\project\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (D:\\project\\node_modules\\express\\lib\\router\\index.js:175:3)","level":"error","timestamp":"2023-02-28T08:35:57.007Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T08:37:00.026Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T08:37:00.040Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T08:37:01.368Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T08:37:01.381Z"}
+{"message":"Cannot destructure property 'error' of 'validate(...)' as it is undefined.","stack":"TypeError: Cannot destructure property 'error' of 'validate(...)' as it is undefined.\n    at addCustomer (D:\\project\\controllers\\customerController.js:16:12)\n    at Layer.handle [as handle_request] (D:\\project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\project\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (D:\\project\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (D:\\project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\project\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (D:\\project\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (D:\\project\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (D:\\project\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (D:\\project\\node_modules\\express\\lib\\router\\index.js:47:12)","level":"error","timestamp":"2023-02-28T08:37:15.860Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T08:40:44.286Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T08:40:44.300Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T08:40:45.412Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T08:40:45.427Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T08:40:57.234Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T08:40:57.248Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T08:40:59.165Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T08:40:59.179Z"}
+{"message":"Cannot destructure property 'error' of 'validate(...)' as it is undefined.","stack":"TypeError: Cannot destructure property 'error' of 'validate(...)' as it is undefined.\n    at addCustomer (D:\\project\\controllers\\customerController.js:16:12)\n    at Layer.handle [as handle_request] (D:\\project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\project\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (D:\\project\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (D:\\project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\project\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (D:\\project\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (D:\\project\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (D:\\project\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (D:\\project\\node_modules\\express\\lib\\router\\index.js:47:12)","level":"error","timestamp":"2023-02-28T08:41:29.533Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T08:41:48.148Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T08:41:48.161Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T08:41:50.071Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T08:41:50.085Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T08:41:52.561Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T08:41:52.575Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T08:43:58.211Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T08:43:58.225Z"}
+{"message":"Cannot destructure property 'error' of 'validate(...)' as it is undefined.","stack":"TypeError: Cannot destructure property 'error' of 'validate(...)' as it is undefined.\n    at addCustomer (D:\\project\\controllers\\customerController.js:16:12)\n    at Layer.handle [as handle_request] (D:\\project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\project\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (D:\\project\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (D:\\project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\project\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (D:\\project\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (D:\\project\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (D:\\project\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (D:\\project\\node_modules\\express\\lib\\router\\index.js:47:12)","level":"error","timestamp":"2023-02-28T08:44:15.976Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T08:45:57.872Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T08:45:57.885Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T08:46:05.767Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T08:46:05.781Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T08:46:10.247Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T08:46:10.260Z"}
+{"message":"Validate is not a function","stack":"TypeError: Validate is not a function\n    at addCustomer (D:\\project\\controllers\\customerController.js:16:21)\n    at Layer.handle [as handle_request] (D:\\project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\project\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (D:\\project\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (D:\\project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\project\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (D:\\project\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (D:\\project\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (D:\\project\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (D:\\project\\node_modules\\express\\lib\\router\\index.js:47:12)","level":"error","timestamp":"2023-02-28T08:46:22.533Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T08:46:38.874Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T08:46:38.889Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T08:46:43.471Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T08:46:43.485Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T08:46:47.386Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T08:46:47.399Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T08:46:56.995Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T08:46:57.010Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T08:47:28.603Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T08:47:28.617Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T08:47:30.043Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T08:47:30.057Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T08:47:36.263Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T08:47:36.278Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T08:47:38.510Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T08:47:38.523Z"}
+{"message":"Cannot destructure property 'error' of 'validateCustomer(...)' as it is undefined.","stack":"TypeError: Cannot destructure property 'error' of 'validateCustomer(...)' as it is undefined.\n    at addCustomer (D:\\project\\controllers\\customerController.js:16:12)\n    at Layer.handle [as handle_request] (D:\\project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\project\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (D:\\project\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (D:\\project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\project\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (D:\\project\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (D:\\project\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (D:\\project\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (D:\\project\\node_modules\\express\\lib\\router\\index.js:47:12)","level":"error","timestamp":"2023-02-28T08:47:42.567Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T08:49:46.373Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T08:49:46.386Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T08:49:48.402Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T08:49:48.415Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T08:50:30.934Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T08:50:30.948Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T08:50:40.570Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T08:50:40.584Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T08:51:24.970Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T08:51:24.983Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T08:51:59.539Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T08:51:59.554Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:07:44.161Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:07:44.176Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:07:53.223Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:07:53.242Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:07:54.371Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:07:54.385Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:09:41.805Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:09:41.820Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:09:45.770Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:09:45.783Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:09:47.244Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:09:47.257Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:09:53.192Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:09:53.207Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:09:57.052Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:09:57.066Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:10:04.017Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:10:04.031Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:10:27.661Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:10:27.675Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:10:37.452Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:10:37.466Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:10:42.244Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:10:42.257Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:10:47.797Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:10:47.811Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:10:52.282Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:10:52.296Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:10:55.388Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:10:55.402Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:10:57.318Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:10:57.333Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:12:38.299Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:12:38.313Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:16:27.038Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:16:27.053Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:18:45.993Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:18:46.007Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:19:04.158Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:19:04.172Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:19:17.921Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:19:17.935Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:19:20.791Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:19:20.805Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:19:53.972Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:19:53.986Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:19:57.722Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:19:57.736Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:20:00.535Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:20:00.549Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:20:02.782Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:20:02.797Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:20:17.264Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:20:17.279Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:20:22.427Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:20:22.441Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:20:25.422Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:20:25.437Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:20:26.514Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:20:26.528Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:20:32.894Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:20:32.908Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:20:47.195Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:20:47.208Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:20:58.923Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:20:58.937Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:21:06.672Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:21:06.688Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:21:11.699Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:21:11.712Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:21:25.270Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:21:25.284Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:21:39.640Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:21:39.654Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:21:41.132Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:21:41.146Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:21:46.063Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:21:46.076Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:21:57.851Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:21:57.864Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:21:59.983Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:21:59.997Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:22:05.905Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:22:05.920Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:22:09.206Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:22:09.220Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:22:16.348Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:22:16.363Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:22:26.765Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:22:26.779Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:22:37.004Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:22:37.018Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:22:40.139Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:22:40.153Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:22:42.330Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:22:42.344Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:22:46.943Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:22:46.957Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:22:50.618Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:22:50.631Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:22:58.662Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:22:58.676Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:23:01.981Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:23:01.995Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:26:16.635Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:26:16.649Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:26:34.911Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:26:34.925Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:27:41.690Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:27:41.704Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:27:47.505Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:27:47.519Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:27:52.923Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:27:52.936Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:27:54.160Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:27:54.173Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:28:00.924Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:28:00.937Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:28:06.181Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:28:06.196Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:28:19.527Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:28:19.541Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:28:27.947Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:28:27.960Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:28:32.128Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:28:32.142Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:28:33.756Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:28:33.770Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:28:36.171Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:28:36.185Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:28:38.166Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:28:38.180Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:43:32.680Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:43:32.695Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:45:21.694Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:45:21.707Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:45:23.495Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:45:23.510Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:45:26.254Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:45:26.269Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:45:30.268Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:45:30.282Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:45:31.351Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:45:31.365Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:46:12.898Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:46:12.912Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:46:27.975Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:46:27.988Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:46:59.908Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:46:59.922Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:47:04.065Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:47:04.079Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:48:00.675Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:48:00.689Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T09:48:09.233Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T09:48:09.249Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:44:38.825Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:44:38.838Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:45:41.440Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:45:41.455Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:46:01.541Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:46:01.555Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:46:05.507Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:46:05.521Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:46:18.133Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:46:18.147Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:46:29.041Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:46:29.054Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:46:35.423Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:46:35.437Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:46:37.823Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:46:37.836Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:46:47.835Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:46:47.853Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:46:50.818Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:46:50.832Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:46:54.596Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:46:54.610Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:47:04.275Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:47:04.288Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:47:07.769Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:47:07.783Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:47:08.847Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:47:08.861Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:47:39.810Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:47:39.824Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:48:45.163Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:48:45.178Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:48:46.399Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:48:46.414Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:48:48.070Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:48:48.095Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:48:58.335Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:48:58.349Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:49:04.607Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:49:04.621Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:49:05.853Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:49:05.867Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:49:07.827Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:49:07.840Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:49:10.641Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:49:10.655Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:49:29.657Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:49:29.671Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:49:31.434Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:49:31.448Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:49:33.920Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:49:33.934Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:49:39.270Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:49:39.284Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:49:44.155Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:49:44.168Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:49:46.987Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:49:47.001Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:49:48.539Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:49:48.554Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:49:52.101Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:49:52.115Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:49:53.619Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:49:53.633Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:50:31.941Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:50:31.955Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:50:48.681Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:50:48.695Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:50:56.002Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:50:56.016Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:51:09.970Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:51:09.984Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:51:26.221Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:51:26.234Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:51:29.363Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:51:29.376Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:51:33.127Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:51:33.141Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:51:35.318Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:51:35.332Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:51:42.626Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:51:42.639Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:52:06.623Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:52:06.637Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:52:13.653Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:52:13.667Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:52:14.145Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:52:14.159Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:53:07.183Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:53:07.196Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:53:08.417Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:53:08.432Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:53:19.214Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:53:19.228Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:53:21.347Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:53:21.362Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:53:27.140Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:53:27.154Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:53:34.191Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:53:34.205Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:53:35.960Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:53:35.975Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:53:39.153Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:53:39.167Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:53:42.389Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:53:42.402Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:53:46.117Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:53:46.131Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:54:05.388Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:54:05.402Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:54:10.465Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:54:10.481Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:54:16.104Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:54:16.119Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:54:19.126Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:54:19.140Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:54:20.304Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:54:20.319Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:54:24.014Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:54:24.028Z"}
+{"message":"Parameter \"filter\" to findOne() must be an object, got 63fdcded82f74b57b58375d0","stack":"ObjectParameterError: Parameter \"filter\" to findOne() must be an object, got 63fdcded82f74b57b58375d0\n    at Query.findOne (D:\\project\\node_modules\\mongoose\\lib\\query.js:2546:16)\n    at Function.findOne (D:\\project\\node_modules\\mongoose\\lib\\model.js:2138:13)\n    at oneCustomerData (D:\\project\\controllers\\customerController.js:83:41)\n    at Layer.handle [as handle_request] (D:\\project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\project\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (D:\\project\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (D:\\project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\project\\node_modules\\express\\lib\\router\\index.js:284:15\n    at param (D:\\project\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at param (D:\\project\\node_modules\\express\\lib\\router\\index.js:376:14)","level":"error","timestamp":"2023-02-28T12:55:38.782Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:56:25.728Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:56:25.742Z"}
+{"message":"Parameter \"filter\" to findOne() must be an object, got 63fdcded82f74b57b58375d0","stack":"ObjectParameterError: Parameter \"filter\" to findOne() must be an object, got 63fdcded82f74b57b58375d0\n    at Query.findOne (D:\\project\\node_modules\\mongoose\\lib\\query.js:2546:16)\n    at Function.findOne (D:\\project\\node_modules\\mongoose\\lib\\model.js:2138:13)\n    at oneCustomerData (D:\\project\\controllers\\customerController.js:83:41)\n    at Layer.handle [as handle_request] (D:\\project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\project\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (D:\\project\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (D:\\project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\project\\node_modules\\express\\lib\\router\\index.js:284:15\n    at param (D:\\project\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at param (D:\\project\\node_modules\\express\\lib\\router\\index.js:376:14)","level":"error","timestamp":"2023-02-28T12:56:41.730Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T12:57:00.365Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T12:57:00.378Z"}
+{"message":"D:\\project\\views\\showCustomer.ejs:5\n    3|         <div class=\"row\">\r\n    4|             <div class=\"col-8\">\r\n >> 5|                 <h4 class=\"font-weiht-bold\">My name is <%= customer.firstname %> <%= customer.lastname %></h4>\r\n    6|             </div>\r\n    7|             <div class=\"col-4\">\r\n    8|                 <a href=\"/\" class=\"btn btn-success float-right\"><i class=\"fa fa-plus mr-1\"></i>All Customers</a>\r\n\ncustomer is not defined","stack":"ReferenceError: D:\\project\\views\\showCustomer.ejs:5\n    3|         <div class=\"row\">\r\n    4|             <div class=\"col-8\">\r\n >> 5|                 <h4 class=\"font-weiht-bold\">My name is <%= customer.firstname %> <%= customer.lastname %></h4>\r\n    6|             </div>\r\n    7|             <div class=\"col-4\">\r\n    8|                 <a href=\"/\" class=\"btn btn-success float-right\"><i class=\"fa fa-plus mr-1\"></i>All Customers</a>\r\n\ncustomer is not defined\n    at eval (\"D:\\\\project\\\\views\\\\showCustomer.ejs\":12:26)\n    at showCustomer (D:\\project\\node_modules\\ejs\\lib\\ejs.js:703:17)\n    at tryHandleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:274:36)\n    at exports.renderFile [as engine] (D:\\project\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (D:\\project\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (D:\\project\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (D:\\project\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (D:\\project\\node_modules\\express\\lib\\response.js:1039:7)\n    at res.render (D:\\project\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:77:18)\n    at oneCustomerData (D:\\project\\controllers\\customerController.js:84:13)","path":"D:\\project\\views\\showCustomer.ejs","level":"error","timestamp":"2023-02-28T13:00:10.941Z"}
+{"message":"D:\\project\\views\\showCustomer.ejs:5\n    3|         <div class=\"row\">\r\n    4|             <div class=\"col-8\">\r\n >> 5|                 <h4 class=\"font-weiht-bold\">My name is <%= customer.firstname %> <%= customer.lastname %></h4>\r\n    6|             </div>\r\n    7|             <div class=\"col-4\">\r\n    8|                 <a href=\"/\" class=\"btn btn-success float-right\"><i class=\"fa fa-plus mr-1\"></i>All Customers</a>\r\n\ncustomer is not defined","stack":"ReferenceError: D:\\project\\views\\showCustomer.ejs:5\n    3|         <div class=\"row\">\r\n    4|             <div class=\"col-8\">\r\n >> 5|                 <h4 class=\"font-weiht-bold\">My name is <%= customer.firstname %> <%= customer.lastname %></h4>\r\n    6|             </div>\r\n    7|             <div class=\"col-4\">\r\n    8|                 <a href=\"/\" class=\"btn btn-success float-right\"><i class=\"fa fa-plus mr-1\"></i>All Customers</a>\r\n\ncustomer is not defined\n    at eval (\"D:\\\\project\\\\views\\\\showCustomer.ejs\":12:26)\n    at showCustomer (D:\\project\\node_modules\\ejs\\lib\\ejs.js:703:17)\n    at tryHandleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:274:36)\n    at exports.renderFile [as engine] (D:\\project\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (D:\\project\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (D:\\project\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (D:\\project\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (D:\\project\\node_modules\\express\\lib\\response.js:1039:7)\n    at res.render (D:\\project\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:77:18)\n    at oneCustomerData (D:\\project\\controllers\\customerController.js:84:13)","path":"D:\\project\\views\\showCustomer.ejs","level":"error","timestamp":"2023-02-28T13:00:15.022Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T13:12:29.440Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T13:12:29.454Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T13:23:52.262Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T13:23:52.276Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T13:24:06.412Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T13:24:06.426Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T13:24:07.940Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T13:24:07.954Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T13:24:19.824Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T13:24:19.837Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T13:24:33.829Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T13:24:33.843Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T13:24:35.185Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T13:24:35.200Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T13:26:44.088Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T13:26:44.104Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T13:31:51.657Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T13:31:51.672Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T13:34:16.938Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T13:34:16.951Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T13:53:00.718Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T13:53:00.733Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T13:54:59.800Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T13:54:59.814Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T13:55:24.868Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T13:55:24.882Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T13:57:46.346Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T13:57:46.360Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T13:57:48.951Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T13:57:48.967Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T14:00:51.225Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T14:00:51.239Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T14:01:01.603Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T14:01:01.618Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T14:01:08.629Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T14:01:08.644Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T14:01:12.577Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T14:01:12.591Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T14:01:15.771Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T14:01:15.786Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T14:01:21.470Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T14:01:21.483Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T14:01:26.139Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T14:01:26.153Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T14:01:37.472Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T14:01:37.485Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T14:01:45.812Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T14:01:45.826Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T14:01:51.596Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T14:01:51.610Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T14:07:39.096Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T14:07:39.110Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T14:07:49.824Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T14:07:49.838Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T14:07:56.383Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T14:07:56.398Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T14:08:02.487Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T14:08:02.501Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T14:08:07.659Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T14:08:07.673Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T14:08:12.616Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T14:08:12.630Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T14:09:14.785Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T14:09:14.800Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T14:09:23.956Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T14:09:23.969Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T14:12:49.777Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T14:12:49.791Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T14:12:51.159Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T14:12:51.173Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T14:13:04.461Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T14:13:04.475Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T14:37:33.863Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T14:37:33.876Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T14:38:39.006Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T14:38:39.021Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T14:38:40.551Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T14:38:40.566Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T14:48:02.956Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T14:48:02.972Z"}
+{"message":"errors is not defined","stack":"ReferenceError: errors is not defined\n    at addCustomer (D:\\project\\controllers\\customerController.js:19:5)\n    at Layer.handle [as handle_request] (D:\\project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\project\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at middleware (D:\\project\\node_modules\\express-validator\\src\\middlewares\\check.js:16:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","level":"error","timestamp":"2023-02-28T14:48:10.176Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T14:49:06.042Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T14:49:06.057Z"}
+{"message":"errors is not defined","stack":"ReferenceError: errors is not defined\n    at addCustomer (D:\\project\\controllers\\customerController.js:19:5)\n    at Layer.handle [as handle_request] (D:\\project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\project\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at middleware (D:\\project\\node_modules\\express-validator\\src\\middlewares\\check.js:16:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","level":"error","timestamp":"2023-02-28T14:49:13.678Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T14:49:29.118Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T14:49:29.134Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T14:49:31.955Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T14:49:31.970Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T14:49:39.374Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T14:49:39.389Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T14:49:49.366Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T14:49:49.380Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T14:50:22.377Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T14:50:22.391Z"}
+{"message":"validateCustomer is not a function","stack":"TypeError: validateCustomer is not a function\n    at addCustomer (D:\\project\\controllers\\customerController.js:16:21)\n    at Layer.handle [as handle_request] (D:\\project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\project\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (D:\\project\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (D:\\project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\project\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (D:\\project\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (D:\\project\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (D:\\project\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (D:\\project\\node_modules\\express\\lib\\router\\index.js:47:12)","level":"error","timestamp":"2023-02-28T14:50:29.767Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T14:50:45.363Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T14:50:45.377Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T15:07:52.956Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T15:07:52.970Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T15:07:58.608Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T15:07:58.623Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T15:08:06.455Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T15:08:06.469Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T15:10:07.611Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T15:10:07.625Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T15:13:06.226Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T15:13:06.239Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T15:18:24.448Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T15:18:24.462Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T15:19:43.429Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T15:19:43.444Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T15:19:45.363Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T15:19:45.377Z"}
+{"message":"Cannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:393:5)\n    at ServerResponse.setHeader (node:_http_outgoing:644:11)\n    at ServerResponse.header (D:\\project\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.send (D:\\project\\node_modules\\express\\lib\\response.js:174:12)\n    at done (D:\\project\\node_modules\\express\\lib\\response.js:1035:10)\n    at tryHandleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:280:5)\n    at exports.renderFile [as engine] (D:\\project\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (D:\\project\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (D:\\project\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (D:\\project\\node_modules\\express\\lib\\application.js:609:3)","code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-02-28T15:19:46.935Z"}
+{"message":"Cannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:393:5)\n    at ServerResponse.setHeader (node:_http_outgoing:644:11)\n    at ServerResponse.header (D:\\project\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.contentType (D:\\project\\node_modules\\express\\lib\\response.js:624:15)\n    at ServerResponse.send (D:\\project\\node_modules\\express\\lib\\response.js:149:14)\n    at done (D:\\project\\node_modules\\express\\lib\\response.js:1035:10)\n    at tryHandleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:280:5)\n    at exports.renderFile [as engine] (D:\\project\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (D:\\project\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (D:\\project\\node_modules\\express\\lib\\application.js:657:10)","code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-02-28T15:19:49.267Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T15:20:02.823Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T15:20:02.837Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T15:20:27.932Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T15:20:27.946Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T15:20:43.722Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T15:20:43.736Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T15:21:08.842Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T15:21:08.856Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T15:37:22.751Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T15:37:22.766Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T15:37:27.468Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T15:37:27.482Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T15:37:34.457Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T15:37:34.471Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T15:37:37.236Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T15:37:37.250Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T15:37:38.674Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T15:37:38.688Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T15:37:41.051Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T15:37:41.064Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T15:38:31.402Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T15:38:31.416Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T15:38:46.846Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T15:38:46.860Z"}
+{"message":"Joi.objectid is not a function","stack":"TypeError: Joi.objectid is not a function\n    at validateCustomer (D:\\project\\models\\customers.js:35:24)\n    at addCustomer (D:\\project\\controllers\\customerController.js:17:28)\n    at Layer.handle [as handle_request] (D:\\project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\project\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (D:\\project\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (D:\\project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\project\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (D:\\project\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (D:\\project\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (D:\\project\\node_modules\\express\\lib\\router\\index.js:175:3)","level":"error","timestamp":"2023-02-28T15:39:20.406Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T15:42:49.286Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T15:42:49.300Z"}
+{"message":"Joi.objectid is not a function","stack":"TypeError: Joi.objectid is not a function\n    at validateCustomer (D:\\project\\models\\customers.js:35:24)\n    at addCustomer (D:\\project\\controllers\\customerController.js:17:28)\n    at Layer.handle [as handle_request] (D:\\project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\project\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (D:\\project\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (D:\\project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\project\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (D:\\project\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (D:\\project\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (D:\\project\\node_modules\\express\\lib\\router\\index.js:175:3)","level":"error","timestamp":"2023-02-28T15:42:58.593Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T15:49:53.385Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T15:49:53.400Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T15:49:58.832Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T15:49:58.847Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T15:50:00.143Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T15:50:00.157Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T15:50:08.290Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T15:50:08.304Z"}
+{"message":"Joi.objectid is not a function","stack":"TypeError: Joi.objectid is not a function\n    at validateCustomer (D:\\project\\models\\customers.js:36:24)\n    at addCustomer (D:\\project\\controllers\\customerController.js:17:21)\n    at Layer.handle [as handle_request] (D:\\project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\project\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (D:\\project\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (D:\\project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\project\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (D:\\project\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (D:\\project\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (D:\\project\\node_modules\\express\\lib\\router\\index.js:175:3)","level":"error","timestamp":"2023-02-28T15:50:17.917Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T15:50:49.675Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T15:50:49.689Z"}
+{"message":"Joi.objectid is not a function","stack":"TypeError: Joi.objectid is not a function\n    at validateCustomer (D:\\project\\models\\customers.js:36:24)\n    at addCustomer (D:\\project\\controllers\\customerController.js:18:21)\n    at Layer.handle [as handle_request] (D:\\project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\project\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (D:\\project\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (D:\\project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\project\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (D:\\project\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (D:\\project\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (D:\\project\\node_modules\\express\\lib\\router\\index.js:175:3)","level":"error","timestamp":"2023-02-28T15:51:15.003Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:02:11.977Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:02:11.991Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:08:20.488Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:08:20.504Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:08:22.990Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:08:23.004Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:08:46.382Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:08:46.398Z"}
+{"message":"Customer validation failed: firstname: Path `firstname` is required., lastname: Path `lastname` is required., phonenumber: Path `phonenumber` is required., cnic: Path `cnic` is required., address: Path `address` is required.","stack":"ValidationError: Customer validation failed: firstname: Path `firstname` is required., lastname: Path `lastname` is required., phonenumber: Path `phonenumber` is required., cnic: Path `cnic` is required., address: Path `address` is required.\n    at Document.invalidate (D:\\project\\node_modules\\mongoose\\lib\\document.js:3081:32)\n    at D:\\project\\node_modules\\mongoose\\lib\\document.js:2869:17\n    at D:\\project\\node_modules\\mongoose\\lib\\schematype.js:1350:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)","errors":{"firstname":{"name":"ValidatorError","message":"Path `firstname` is required.","properties":{"message":"Path `firstname` is required.","type":"required","path":"firstname","value":""},"kind":"required","path":"firstname","value":""},"lastname":{"name":"ValidatorError","message":"Path `lastname` is required.","properties":{"message":"Path `lastname` is required.","type":"required","path":"lastname","value":""},"kind":"required","path":"lastname","value":""},"phonenumber":{"name":"ValidatorError","message":"Path `phonenumber` is required.","properties":{"message":"Path `phonenumber` is required.","type":"required","path":"phonenumber","value":""},"kind":"required","path":"phonenumber","value":""},"cnic":{"name":"ValidatorError","message":"Path `cnic` is required.","properties":{"message":"Path `cnic` is required.","type":"required","path":"cnic","value":""},"kind":"required","path":"cnic","value":""},"address":{"name":"ValidatorError","message":"Path `address` is required.","properties":{"message":"Path `address` is required.","type":"required","path":"address","value":""},"kind":"required","path":"address","value":""}},"_message":"Customer validation failed","level":"error","timestamp":"2023-02-28T16:09:51.843Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:10:43.561Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:10:43.574Z"}
+{"message":"Cannot read properties of null (reading 'details')","stack":"TypeError: Cannot read properties of null (reading 'details')\n    at addCustomer (D:\\project\\controllers\\customerController.js:20:33)\n    at Layer.handle [as handle_request] (D:\\project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\project\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (D:\\project\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (D:\\project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\project\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (D:\\project\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (D:\\project\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (D:\\project\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (D:\\project\\node_modules\\express\\lib\\router\\index.js:47:12)","level":"error","timestamp":"2023-02-28T16:11:11.503Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:11:40.560Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:11:40.573Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:12:01.325Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:12:01.339Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:12:08.072Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:12:08.086Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:12:11.308Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:12:11.322Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:12:12.748Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:12:12.761Z"}
+{"message":"Customer validation failed: firstname: Path `firstname` is required., lastname: Path `lastname` is required., phonenumber: Path `phonenumber` is required., cnic: Path `cnic` is required., address: Path `address` is required.","stack":"ValidationError: Customer validation failed: firstname: Path `firstname` is required., lastname: Path `lastname` is required., phonenumber: Path `phonenumber` is required., cnic: Path `cnic` is required., address: Path `address` is required.\n    at Document.invalidate (D:\\project\\node_modules\\mongoose\\lib\\document.js:3081:32)\n    at D:\\project\\node_modules\\mongoose\\lib\\document.js:2869:17\n    at D:\\project\\node_modules\\mongoose\\lib\\schematype.js:1350:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)","errors":{"firstname":{"name":"ValidatorError","message":"Path `firstname` is required.","properties":{"message":"Path `firstname` is required.","type":"required","path":"firstname","value":""},"kind":"required","path":"firstname","value":""},"lastname":{"name":"ValidatorError","message":"Path `lastname` is required.","properties":{"message":"Path `lastname` is required.","type":"required","path":"lastname","value":""},"kind":"required","path":"lastname","value":""},"phonenumber":{"name":"ValidatorError","message":"Path `phonenumber` is required.","properties":{"message":"Path `phonenumber` is required.","type":"required","path":"phonenumber","value":""},"kind":"required","path":"phonenumber","value":""},"cnic":{"name":"ValidatorError","message":"Path `cnic` is required.","properties":{"message":"Path `cnic` is required.","type":"required","path":"cnic","value":""},"kind":"required","path":"cnic","value":""},"address":{"name":"ValidatorError","message":"Path `address` is required.","properties":{"message":"Path `address` is required.","type":"required","path":"address","value":""},"kind":"required","path":"address","value":""}},"_message":"Customer validation failed","level":"error","timestamp":"2023-02-28T16:12:24.745Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:14:37.232Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:14:37.246Z"}
+{"message":"D:\\project\\views\\addCustomer.ejs:12\n    10|                         <label for=\"firstname\" class=\"col-form-label\">First Name</label>\r\n    11|                         <input type=\"text\" class=\"form-control\" name=\"firstname\" id=\"firstname\" placeholder=\"Enter firstname\">\r\n >> 12|                         if(errors) <%= errors.message %>\r\n    13|                     </div>\r\n    14|                 </div>\r\n    15|                 <div class=\"col-6\">\r\n\nerrors is not defined","stack":"ReferenceError: D:\\project\\views\\addCustomer.ejs:12\n    10|                         <label for=\"firstname\" class=\"col-form-label\">First Name</label>\r\n    11|                         <input type=\"text\" class=\"form-control\" name=\"firstname\" id=\"firstname\" placeholder=\"Enter firstname\">\r\n >> 12|                         if(errors) <%= errors.message %>\r\n    13|                     </div>\r\n    14|                 </div>\r\n    15|                 <div class=\"col-6\">\r\n\nerrors is not defined\n    at eval (\"D:\\\\project\\\\views\\\\addCustomer.ejs\":12:26)\n    at addCustomer (D:\\project\\node_modules\\ejs\\lib\\ejs.js:703:17)\n    at tryHandleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:274:36)\n    at exports.renderFile [as engine] (D:\\project\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (D:\\project\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (D:\\project\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (D:\\project\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (D:\\project\\node_modules\\express\\lib\\response.js:1039:7)\n    at res.render (D:\\project\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:77:18)\n    at getAddCustomerView (D:\\project\\controllers\\customerController.js:13:9)","path":"D:\\project\\views\\addCustomer.ejs","level":"error","timestamp":"2023-02-28T16:14:40.955Z"}
+{"message":"D:\\project\\views\\addCustomer.ejs:12\n    10|                         <label for=\"firstname\" class=\"col-form-label\">First Name</label>\r\n    11|                         <input type=\"text\" class=\"form-control\" name=\"firstname\" id=\"firstname\" placeholder=\"Enter firstname\">\r\n >> 12|                         if(errors) <%= errors.message %>\r\n    13|                     </div>\r\n    14|                 </div>\r\n    15|                 <div class=\"col-6\">\r\n\nerrors is not defined","stack":"ReferenceError: D:\\project\\views\\addCustomer.ejs:12\n    10|                         <label for=\"firstname\" class=\"col-form-label\">First Name</label>\r\n    11|                         <input type=\"text\" class=\"form-control\" name=\"firstname\" id=\"firstname\" placeholder=\"Enter firstname\">\r\n >> 12|                         if(errors) <%= errors.message %>\r\n    13|                     </div>\r\n    14|                 </div>\r\n    15|                 <div class=\"col-6\">\r\n\nerrors is not defined\n    at eval (\"D:\\\\project\\\\views\\\\addCustomer.ejs\":12:26)\n    at addCustomer (D:\\project\\node_modules\\ejs\\lib\\ejs.js:703:17)\n    at tryHandleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:274:36)\n    at exports.renderFile [as engine] (D:\\project\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (D:\\project\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (D:\\project\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (D:\\project\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (D:\\project\\node_modules\\express\\lib\\response.js:1039:7)\n    at res.render (D:\\project\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:77:18)\n    at getAddCustomerView (D:\\project\\controllers\\customerController.js:13:9)","path":"D:\\project\\views\\addCustomer.ejs","level":"error","timestamp":"2023-02-28T16:14:53.335Z"}
+{"message":"D:\\project\\views\\addCustomer.ejs:12\n    10|                         <label for=\"firstname\" class=\"col-form-label\">First Name</label>\r\n    11|                         <input type=\"text\" class=\"form-control\" name=\"firstname\" id=\"firstname\" placeholder=\"Enter firstname\">\r\n >> 12|                         if(errors) <%= errors.message %>\r\n    13|                     </div>\r\n    14|                 </div>\r\n    15|                 <div class=\"col-6\">\r\n\nerrors is not defined","stack":"ReferenceError: D:\\project\\views\\addCustomer.ejs:12\n    10|                         <label for=\"firstname\" class=\"col-form-label\">First Name</label>\r\n    11|                         <input type=\"text\" class=\"form-control\" name=\"firstname\" id=\"firstname\" placeholder=\"Enter firstname\">\r\n >> 12|                         if(errors) <%= errors.message %>\r\n    13|                     </div>\r\n    14|                 </div>\r\n    15|                 <div class=\"col-6\">\r\n\nerrors is not defined\n    at eval (\"D:\\\\project\\\\views\\\\addCustomer.ejs\":12:26)\n    at addCustomer (D:\\project\\node_modules\\ejs\\lib\\ejs.js:703:17)\n    at tryHandleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:274:36)\n    at exports.renderFile [as engine] (D:\\project\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (D:\\project\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (D:\\project\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (D:\\project\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (D:\\project\\node_modules\\express\\lib\\response.js:1039:7)\n    at res.render (D:\\project\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:77:18)\n    at getAddCustomerView (D:\\project\\controllers\\customerController.js:13:9)","path":"D:\\project\\views\\addCustomer.ejs","level":"error","timestamp":"2023-02-28T16:15:17.566Z"}
+{"message":"D:\\project\\views\\addCustomer.ejs:6\n    4|     </div>\r\n    5|     <div class=\"card-body\">\r\n >> 6|         <%= errors %>\r\n    7|         <form action=\"/addCustomer\" id=\"add_customer_form\" method=\"POST\">\r\n    8|             <div class=\"row\">\r\n    9|                 <div class=\"col-6\">\r\n\nerrors is not defined","stack":"ReferenceError: D:\\project\\views\\addCustomer.ejs:6\n    4|     </div>\r\n    5|     <div class=\"card-body\">\r\n >> 6|         <%= errors %>\r\n    7|         <form action=\"/addCustomer\" id=\"add_customer_form\" method=\"POST\">\r\n    8|             <div class=\"row\">\r\n    9|                 <div class=\"col-6\">\r\n\nerrors is not defined\n    at eval (\"D:\\\\project\\\\views\\\\addCustomer.ejs\":12:26)\n    at addCustomer (D:\\project\\node_modules\\ejs\\lib\\ejs.js:703:17)\n    at tryHandleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:274:36)\n    at exports.renderFile [as engine] (D:\\project\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (D:\\project\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (D:\\project\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (D:\\project\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (D:\\project\\node_modules\\express\\lib\\response.js:1039:7)\n    at res.render (D:\\project\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:77:18)\n    at getAddCustomerView (D:\\project\\controllers\\customerController.js:13:9)","path":"D:\\project\\views\\addCustomer.ejs","level":"error","timestamp":"2023-02-28T16:16:02.209Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:16:16.979Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:16:16.992Z"}
+{"message":"D:\\project\\views\\addCustomer.ejs:6\n    4|     </div>\r\n    5|     <div class=\"card-body\">\r\n >> 6|         <%= errors %>\r\n    7|         <form action=\"/addCustomer\" id=\"add_customer_form\" method=\"POST\">\r\n    8|             <div class=\"row\">\r\n    9|                 <div class=\"col-6\">\r\n\nerrors is not defined","stack":"ReferenceError: D:\\project\\views\\addCustomer.ejs:6\n    4|     </div>\r\n    5|     <div class=\"card-body\">\r\n >> 6|         <%= errors %>\r\n    7|         <form action=\"/addCustomer\" id=\"add_customer_form\" method=\"POST\">\r\n    8|             <div class=\"row\">\r\n    9|                 <div class=\"col-6\">\r\n\nerrors is not defined\n    at eval (\"D:\\\\project\\\\views\\\\addCustomer.ejs\":12:26)\n    at addCustomer (D:\\project\\node_modules\\ejs\\lib\\ejs.js:703:17)\n    at tryHandleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:274:36)\n    at exports.renderFile [as engine] (D:\\project\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (D:\\project\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (D:\\project\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (D:\\project\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (D:\\project\\node_modules\\express\\lib\\response.js:1039:7)\n    at res.render (D:\\project\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:77:18)\n    at getAddCustomerView (D:\\project\\controllers\\customerController.js:13:9)","path":"D:\\project\\views\\addCustomer.ejs","level":"error","timestamp":"2023-02-28T16:16:19.855Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:17:01.278Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:17:01.292Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:17:05.794Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:17:05.808Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:17:07.763Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:17:07.776Z"}
+{"message":"D:\\project\\views\\addCustomer.ejs:6\n    4|     </div>\r\n    5|     <div class=\"card-body\">\r\n >> 6|         <%= errors %>\r\n    7|         <form action=\"/addCustomer\" id=\"add_customer_form\" method=\"POST\">\r\n    8|             <div class=\"row\">\r\n    9|                 <div class=\"col-6\">\r\n\nerrors is not defined","stack":"ReferenceError: D:\\project\\views\\addCustomer.ejs:6\n    4|     </div>\r\n    5|     <div class=\"card-body\">\r\n >> 6|         <%= errors %>\r\n    7|         <form action=\"/addCustomer\" id=\"add_customer_form\" method=\"POST\">\r\n    8|             <div class=\"row\">\r\n    9|                 <div class=\"col-6\">\r\n\nerrors is not defined\n    at eval (\"D:\\\\project\\\\views\\\\addCustomer.ejs\":12:26)\n    at addCustomer (D:\\project\\node_modules\\ejs\\lib\\ejs.js:703:17)\n    at tryHandleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:274:36)\n    at exports.renderFile [as engine] (D:\\project\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (D:\\project\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (D:\\project\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (D:\\project\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (D:\\project\\node_modules\\express\\lib\\response.js:1039:7)\n    at res.render (D:\\project\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:77:18)\n    at getAddCustomerView (D:\\project\\controllers\\customerController.js:13:9)","path":"D:\\project\\views\\addCustomer.ejs","level":"error","timestamp":"2023-02-28T16:17:18.235Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:19:00.066Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:19:00.080Z"}
+{"message":"D:\\project\\views\\addCustomer.ejs:6\n    4|     </div>\r\n    5|     <div class=\"card-body\">\r\n >> 6|         <%= errors %>\r\n    7|         <form action=\"/addCustomer\" id=\"add_customer_form\" method=\"POST\">\r\n    8|             <div class=\"row\">\r\n    9|                 <div class=\"col-6\">\r\n\nerrors is not defined","stack":"ReferenceError: D:\\project\\views\\addCustomer.ejs:6\n    4|     </div>\r\n    5|     <div class=\"card-body\">\r\n >> 6|         <%= errors %>\r\n    7|         <form action=\"/addCustomer\" id=\"add_customer_form\" method=\"POST\">\r\n    8|             <div class=\"row\">\r\n    9|                 <div class=\"col-6\">\r\n\nerrors is not defined\n    at eval (\"D:\\\\project\\\\views\\\\addCustomer.ejs\":12:26)\n    at addCustomer (D:\\project\\node_modules\\ejs\\lib\\ejs.js:703:17)\n    at tryHandleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:274:36)\n    at exports.renderFile [as engine] (D:\\project\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (D:\\project\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (D:\\project\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (D:\\project\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (D:\\project\\node_modules\\express\\lib\\response.js:1039:7)\n    at res.render (D:\\project\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:77:18)\n    at getAddCustomerView (D:\\project\\controllers\\customerController.js:13:9)","path":"D:\\project\\views\\addCustomer.ejs","level":"error","timestamp":"2023-02-28T16:19:02.227Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:19:11.095Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:19:11.111Z"}
+{"message":"D:\\project\\views\\addCustomer.ejs:6\n    4|     </div>\r\n    5|     <div class=\"card-body\">\r\n >> 6|         <% if(errors.length > 0) { %>\r\n    7|             <% for(let error of errors){ %>\r\n    8|                 <p><%= error %></p>\r\n    9|             <% } %>\r\n\nerrors is not defined","stack":"ReferenceError: D:\\project\\views\\addCustomer.ejs:6\n    4|     </div>\r\n    5|     <div class=\"card-body\">\r\n >> 6|         <% if(errors.length > 0) { %>\r\n    7|             <% for(let error of errors){ %>\r\n    8|                 <p><%= error %></p>\r\n    9|             <% } %>\r\n\nerrors is not defined\n    at eval (\"D:\\\\project\\\\views\\\\addCustomer.ejs\":12:8)\n    at addCustomer (D:\\project\\node_modules\\ejs\\lib\\ejs.js:703:17)\n    at tryHandleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:274:36)\n    at exports.renderFile [as engine] (D:\\project\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (D:\\project\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (D:\\project\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (D:\\project\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (D:\\project\\node_modules\\express\\lib\\response.js:1039:7)\n    at res.render (D:\\project\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:77:18)\n    at getAddCustomerView (D:\\project\\controllers\\customerController.js:13:9)","path":"D:\\project\\views\\addCustomer.ejs","level":"error","timestamp":"2023-02-28T16:20:59.334Z"}
+{"message":"D:\\project\\views\\addCustomer.ejs:6\n    4|     </div>\r\n    5|     <div class=\"card-body\">\r\n >> 6|         <% if(errors.length > 0) { %>\r\n    7|             <% for(let error of errors){ %>\r\n    8|                 <p><%= error %></p>\r\n    9|             <% } %>\r\n\nerrors is not defined","stack":"ReferenceError: D:\\project\\views\\addCustomer.ejs:6\n    4|     </div>\r\n    5|     <div class=\"card-body\">\r\n >> 6|         <% if(errors.length > 0) { %>\r\n    7|             <% for(let error of errors){ %>\r\n    8|                 <p><%= error %></p>\r\n    9|             <% } %>\r\n\nerrors is not defined\n    at eval (\"D:\\\\project\\\\views\\\\addCustomer.ejs\":12:8)\n    at addCustomer (D:\\project\\node_modules\\ejs\\lib\\ejs.js:703:17)\n    at tryHandleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:274:36)\n    at exports.renderFile [as engine] (D:\\project\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (D:\\project\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (D:\\project\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (D:\\project\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (D:\\project\\node_modules\\express\\lib\\response.js:1039:7)\n    at res.render (D:\\project\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:77:18)\n    at getAddCustomerView (D:\\project\\controllers\\customerController.js:13:9)","path":"D:\\project\\views\\addCustomer.ejs","level":"error","timestamp":"2023-02-28T16:23:22.048Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:23:51.415Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:23:51.429Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:23:56.997Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:23:57.010Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:23:59.015Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:23:59.029Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:24:08.947Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:24:08.961Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:26:21.086Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:26:21.101Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:26:23.689Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:26:23.703Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:26:25.436Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:26:25.450Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:26:27.044Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:26:27.058Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:26:28.324Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:26:28.338Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:26:29.589Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:26:29.603Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:27:22.762Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:27:22.776Z"}
+{"message":"detail is not defined","stack":"ReferenceError: detail is not defined\n    at addCustomer (D:\\project\\controllers\\customerController.js:22:21)\n    at Layer.handle [as handle_request] (D:\\project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\project\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (D:\\project\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (D:\\project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\project\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (D:\\project\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (D:\\project\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (D:\\project\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (D:\\project\\node_modules\\express\\lib\\router\\index.js:47:12)","level":"error","timestamp":"2023-02-28T16:27:24.377Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:27:39.709Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:27:39.723Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:27:52.845Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:27:52.862Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:28:29.762Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:28:29.779Z"}
+{"message":"D:\\project\\views\\addCustomer.ejs:7\n    5|     <div class=\"card-body\">\r\n    6|         <% if(myerrors.length > 0) { %>\r\n >> 7|             <% for(let error of errors){ %>\r\n    8|                 <p><%= error %></p>\r\n    9|             <% } %>\r\n    10|         <% } %>\r\n\nerrors is not defined","stack":"ReferenceError: D:\\project\\views\\addCustomer.ejs:7\n    5|     <div class=\"card-body\">\r\n    6|         <% if(myerrors.length > 0) { %>\r\n >> 7|             <% for(let error of errors){ %>\r\n    8|                 <p><%= error %></p>\r\n    9|             <% } %>\r\n    10|         <% } %>\r\n\nerrors is not defined\n    at eval (\"D:\\\\project\\\\views\\\\addCustomer.ejs\":15:25)\n    at addCustomer (D:\\project\\node_modules\\ejs\\lib\\ejs.js:703:17)\n    at tryHandleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:274:36)\n    at exports.renderFile [as engine] (D:\\project\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (D:\\project\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (D:\\project\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (D:\\project\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (D:\\project\\node_modules\\express\\lib\\response.js:1039:7)\n    at res.render (D:\\project\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:77:18)\n    at addCustomer (D:\\project\\controllers\\customerController.js:21:13)","path":"D:\\project\\views\\addCustomer.ejs","level":"error","timestamp":"2023-02-28T16:28:40.576Z"}
+{"message":"D:\\project\\views\\addCustomer.ejs:6\n    4|     </div>\r\n    5|     <div class=\"card-body\">\r\n >> 6|         <% if(myerrors.length > 0) { %>\r\n    7|             <p><%= myerrors %></p>\r\n    8|         <% } %>\r\n    9|         <form action=\"/addCustomer\" id=\"add_customer_form\" method=\"POST\">\r\n\nmyerrors is not defined","stack":"ReferenceError: D:\\project\\views\\addCustomer.ejs:6\n    4|     </div>\r\n    5|     <div class=\"card-body\">\r\n >> 6|         <% if(myerrors.length > 0) { %>\r\n    7|             <p><%= myerrors %></p>\r\n    8|         <% } %>\r\n    9|         <form action=\"/addCustomer\" id=\"add_customer_form\" method=\"POST\">\r\n\nmyerrors is not defined\n    at eval (\"D:\\\\project\\\\views\\\\addCustomer.ejs\":12:8)\n    at addCustomer (D:\\project\\node_modules\\ejs\\lib\\ejs.js:703:17)\n    at tryHandleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:274:36)\n    at exports.renderFile [as engine] (D:\\project\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (D:\\project\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (D:\\project\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (D:\\project\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (D:\\project\\node_modules\\express\\lib\\response.js:1039:7)\n    at res.render (D:\\project\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:77:18)\n    at getAddCustomerView (D:\\project\\controllers\\customerController.js:13:9)","path":"D:\\project\\views\\addCustomer.ejs","level":"error","timestamp":"2023-02-28T16:30:24.193Z"}
+{"message":"D:\\project\\views\\addCustomer.ejs:6\n    4|     </div>\r\n    5|     <div class=\"card-body\">\r\n >> 6|         <% if(myerrors.length > 0) { %>\r\n    7|             <p><%= myerrors %></p>\r\n    8|         <% } %>\r\n    9|         <form action=\"/addCustomer\" id=\"add_customer_form\" method=\"POST\">\r\n\nmyerrors is not defined","stack":"ReferenceError: D:\\project\\views\\addCustomer.ejs:6\n    4|     </div>\r\n    5|     <div class=\"card-body\">\r\n >> 6|         <% if(myerrors.length > 0) { %>\r\n    7|             <p><%= myerrors %></p>\r\n    8|         <% } %>\r\n    9|         <form action=\"/addCustomer\" id=\"add_customer_form\" method=\"POST\">\r\n\nmyerrors is not defined\n    at eval (\"D:\\\\project\\\\views\\\\addCustomer.ejs\":12:8)\n    at addCustomer (D:\\project\\node_modules\\ejs\\lib\\ejs.js:703:17)\n    at tryHandleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:274:36)\n    at exports.renderFile [as engine] (D:\\project\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (D:\\project\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (D:\\project\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (D:\\project\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (D:\\project\\node_modules\\express\\lib\\response.js:1039:7)\n    at res.render (D:\\project\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:77:18)\n    at getAddCustomerView (D:\\project\\controllers\\customerController.js:13:9)","path":"D:\\project\\views\\addCustomer.ejs","level":"error","timestamp":"2023-02-28T16:30:26.658Z"}
+{"message":"D:\\project\\views\\addCustomer.ejs:6\n    4|     </div>\r\n    5|     <div class=\"card-body\">\r\n >> 6|         <% if(myerrors.length > 0) { %>\r\n    7|             <p><%= myerrors %></p>\r\n    8|         <% } %>\r\n    9|         <form action=\"/addCustomer\" id=\"add_customer_form\" method=\"POST\">\r\n\nmyerrors is not defined","stack":"ReferenceError: D:\\project\\views\\addCustomer.ejs:6\n    4|     </div>\r\n    5|     <div class=\"card-body\">\r\n >> 6|         <% if(myerrors.length > 0) { %>\r\n    7|             <p><%= myerrors %></p>\r\n    8|         <% } %>\r\n    9|         <form action=\"/addCustomer\" id=\"add_customer_form\" method=\"POST\">\r\n\nmyerrors is not defined\n    at eval (\"D:\\\\project\\\\views\\\\addCustomer.ejs\":12:8)\n    at addCustomer (D:\\project\\node_modules\\ejs\\lib\\ejs.js:703:17)\n    at tryHandleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:274:36)\n    at exports.renderFile [as engine] (D:\\project\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (D:\\project\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (D:\\project\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (D:\\project\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (D:\\project\\node_modules\\express\\lib\\response.js:1039:7)\n    at res.render (D:\\project\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:77:18)\n    at getAddCustomerView (D:\\project\\controllers\\customerController.js:13:9)","path":"D:\\project\\views\\addCustomer.ejs","level":"error","timestamp":"2023-02-28T16:30:29.539Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:31:58.223Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:31:58.237Z"}
+{"message":"D:\\project\\views\\addCustomer.ejs:8\n    6|         <% for(let i=0; myerrors.length > 0 ; i++) { %>\r\n    7|             <p><%= myerrors[i] %></p>\r\n >> 8|         <% } %>\r\n    9|         <form action=\"/addCustomer\" id=\"add_customer_form\" method=\"POST\">\r\n    10|             <div class=\"row\">\r\n    11|                 <div class=\"col-6\">\r\n\nInvalid string length","stack":"RangeError: D:\\project\\views\\addCustomer.ejs:8\n    6|         <% for(let i=0; myerrors.length > 0 ; i++) { %>\r\n    7|             <p><%= myerrors[i] %></p>\r\n >> 8|         <% } %>\r\n    9|         <form action=\"/addCustomer\" id=\"add_customer_form\" method=\"POST\">\r\n    10|             <div class=\"row\">\r\n    11|                 <div class=\"col-6\">\r\n\nInvalid string length\n    at __append (\"D:\\\\project\\\\views\\\\addCustomer.ejs\":8:73)\n    at eval (\"D:\\\\project\\\\views\\\\addCustomer.ejs\":13:7)\n    at addCustomer (D:\\project\\node_modules\\ejs\\lib\\ejs.js:703:17)\n    at tryHandleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:274:36)\n    at exports.renderFile [as engine] (D:\\project\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (D:\\project\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (D:\\project\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (D:\\project\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (D:\\project\\node_modules\\express\\lib\\response.js:1039:7)\n    at res.render (D:\\project\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:77:18)","path":"D:\\project\\views\\addCustomer.ejs","level":"error","timestamp":"2023-02-28T16:32:19.167Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:32:55.040Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:32:55.054Z"}
+{"message":"D:\\project\\views\\addCustomer.ejs:6\n    4|     </div>\r\n    5|     <div class=\"card-body\">\r\n >> 6|         <% if(myerrors.length > 0) { %>\r\n    7|             <% for(let error of myerrors){ %>\r\n    8|                 <p><%= error %></p>\r\n    9|             <% } %>\r\n\nmyerrors is not defined","stack":"ReferenceError: D:\\project\\views\\addCustomer.ejs:6\n    4|     </div>\r\n    5|     <div class=\"card-body\">\r\n >> 6|         <% if(myerrors.length > 0) { %>\r\n    7|             <% for(let error of myerrors){ %>\r\n    8|                 <p><%= error %></p>\r\n    9|             <% } %>\r\n\nmyerrors is not defined\n    at eval (\"D:\\\\project\\\\views\\\\addCustomer.ejs\":12:8)\n    at addCustomer (D:\\project\\node_modules\\ejs\\lib\\ejs.js:703:17)\n    at tryHandleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:274:36)\n    at exports.renderFile [as engine] (D:\\project\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (D:\\project\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (D:\\project\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (D:\\project\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (D:\\project\\node_modules\\express\\lib\\response.js:1039:7)\n    at res.render (D:\\project\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:77:18)\n    at getAddCustomerView (D:\\project\\controllers\\customerController.js:13:9)","path":"D:\\project\\views\\addCustomer.ejs","level":"error","timestamp":"2023-02-28T16:32:58.708Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:33:54.501Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:33:54.514Z"}
+{"message":"D:\\project\\views\\addCustomer.ejs:6\n    4|     </div>\r\n    5|     <div class=\"card-body\">\r\n >> 6|         <% if(myerrors.length > 0) { %>\r\n    7|             <% for(let myerror of myerrors){ %>\r\n    8|                 <p><%= myerror %></p>\r\n    9|             <% } %>\r\n\nmyerrors is not defined","stack":"ReferenceError: D:\\project\\views\\addCustomer.ejs:6\n    4|     </div>\r\n    5|     <div class=\"card-body\">\r\n >> 6|         <% if(myerrors.length > 0) { %>\r\n    7|             <% for(let myerror of myerrors){ %>\r\n    8|                 <p><%= myerror %></p>\r\n    9|             <% } %>\r\n\nmyerrors is not defined\n    at eval (\"D:\\\\project\\\\views\\\\addCustomer.ejs\":12:8)\n    at addCustomer (D:\\project\\node_modules\\ejs\\lib\\ejs.js:703:17)\n    at tryHandleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:274:36)\n    at exports.renderFile [as engine] (D:\\project\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (D:\\project\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (D:\\project\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (D:\\project\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (D:\\project\\node_modules\\express\\lib\\response.js:1039:7)\n    at res.render (D:\\project\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:77:18)\n    at getAddCustomerView (D:\\project\\controllers\\customerController.js:13:9)","path":"D:\\project\\views\\addCustomer.ejs","level":"error","timestamp":"2023-02-28T16:33:58.974Z"}
+{"message":"D:\\project\\views\\addCustomer.ejs:6\n    4|     </div>\r\n    5|     <div class=\"card-body\">\r\n >> 6|         <% if(myerrors.length > 0) { %>\r\n    7|             <% for(let myerror of myerrors){ %>\r\n    8|                 <p><%= myerror %></p>\r\n    9|             <% } %>\r\n\nmyerrors is not defined","stack":"ReferenceError: D:\\project\\views\\addCustomer.ejs:6\n    4|     </div>\r\n    5|     <div class=\"card-body\">\r\n >> 6|         <% if(myerrors.length > 0) { %>\r\n    7|             <% for(let myerror of myerrors){ %>\r\n    8|                 <p><%= myerror %></p>\r\n    9|             <% } %>\r\n\nmyerrors is not defined\n    at eval (\"D:\\\\project\\\\views\\\\addCustomer.ejs\":12:8)\n    at addCustomer (D:\\project\\node_modules\\ejs\\lib\\ejs.js:703:17)\n    at tryHandleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:274:36)\n    at exports.renderFile [as engine] (D:\\project\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (D:\\project\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (D:\\project\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (D:\\project\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (D:\\project\\node_modules\\express\\lib\\response.js:1039:7)\n    at res.render (D:\\project\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:77:18)\n    at getAddCustomerView (D:\\project\\controllers\\customerController.js:13:9)","path":"D:\\project\\views\\addCustomer.ejs","level":"error","timestamp":"2023-02-28T16:34:01.306Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:34:43.874Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:34:43.887Z"}
+{"message":"Unexpected token '{' in D:\\project\\views\\addCustomer.ejs while compiling ejs\n\nIf the above error is not helpful, you may want to try EJS-Lint:\nhttps://github.com/RyanZim/EJS-Lint\nOr, if you meant to create an async function, pass `async: true` as an option.","stack":"SyntaxError: Unexpected token '{' in D:\\project\\views\\addCustomer.ejs while compiling ejs\n\nIf the above error is not helpful, you may want to try EJS-Lint:\nhttps://github.com/RyanZim/EJS-Lint\nOr, if you meant to create an async function, pass `async: true` as an option.\n    at new Function (<anonymous>)\n    at Template.compile (D:\\project\\node_modules\\ejs\\lib\\ejs.js:673:12)\n    at Object.compile (D:\\project\\node_modules\\ejs\\lib\\ejs.js:398:16)\n    at handleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:235:18)\n    at tryHandleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:274:16)\n    at exports.renderFile [as engine] (D:\\project\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (D:\\project\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (D:\\project\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (D:\\project\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (D:\\project\\node_modules\\express\\lib\\response.js:1039:7)","level":"error","timestamp":"2023-02-28T16:35:41.965Z"}
+{"message":"Unexpected token '{' in D:\\project\\views\\addCustomer.ejs while compiling ejs\n\nIf the above error is not helpful, you may want to try EJS-Lint:\nhttps://github.com/RyanZim/EJS-Lint\nOr, if you meant to create an async function, pass `async: true` as an option.","stack":"SyntaxError: Unexpected token '{' in D:\\project\\views\\addCustomer.ejs while compiling ejs\n\nIf the above error is not helpful, you may want to try EJS-Lint:\nhttps://github.com/RyanZim/EJS-Lint\nOr, if you meant to create an async function, pass `async: true` as an option.\n    at new Function (<anonymous>)\n    at Template.compile (D:\\project\\node_modules\\ejs\\lib\\ejs.js:673:12)\n    at Object.compile (D:\\project\\node_modules\\ejs\\lib\\ejs.js:398:16)\n    at handleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:235:18)\n    at tryHandleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:274:16)\n    at exports.renderFile [as engine] (D:\\project\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (D:\\project\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (D:\\project\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (D:\\project\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (D:\\project\\node_modules\\express\\lib\\response.js:1039:7)","level":"error","timestamp":"2023-02-28T16:37:18.466Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:38:16.536Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:38:16.551Z"}
+{"message":"Unexpected token '{' in D:\\project\\views\\addCustomer.ejs while compiling ejs\n\nIf the above error is not helpful, you may want to try EJS-Lint:\nhttps://github.com/RyanZim/EJS-Lint\nOr, if you meant to create an async function, pass `async: true` as an option.","stack":"SyntaxError: Unexpected token '{' in D:\\project\\views\\addCustomer.ejs while compiling ejs\n\nIf the above error is not helpful, you may want to try EJS-Lint:\nhttps://github.com/RyanZim/EJS-Lint\nOr, if you meant to create an async function, pass `async: true` as an option.\n    at new Function (<anonymous>)\n    at Template.compile (D:\\project\\node_modules\\ejs\\lib\\ejs.js:673:12)\n    at Object.compile (D:\\project\\node_modules\\ejs\\lib\\ejs.js:398:16)\n    at handleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:235:18)\n    at tryHandleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:274:16)\n    at exports.renderFile [as engine] (D:\\project\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (D:\\project\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (D:\\project\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (D:\\project\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (D:\\project\\node_modules\\express\\lib\\response.js:1039:7)","level":"error","timestamp":"2023-02-28T16:38:24.615Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:38:39.547Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:38:39.560Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:38:40.672Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:38:40.686Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:38:47.797Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:38:47.811Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:38:52.029Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:38:52.044Z"}
+{"message":"Unexpected token '{' in D:\\project\\views\\addCustomer.ejs while compiling ejs\n\nIf the above error is not helpful, you may want to try EJS-Lint:\nhttps://github.com/RyanZim/EJS-Lint\nOr, if you meant to create an async function, pass `async: true` as an option.","stack":"SyntaxError: Unexpected token '{' in D:\\project\\views\\addCustomer.ejs while compiling ejs\n\nIf the above error is not helpful, you may want to try EJS-Lint:\nhttps://github.com/RyanZim/EJS-Lint\nOr, if you meant to create an async function, pass `async: true` as an option.\n    at new Function (<anonymous>)\n    at Template.compile (D:\\project\\node_modules\\ejs\\lib\\ejs.js:673:12)\n    at Object.compile (D:\\project\\node_modules\\ejs\\lib\\ejs.js:398:16)\n    at handleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:235:18)\n    at tryHandleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:274:16)\n    at exports.renderFile [as engine] (D:\\project\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (D:\\project\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (D:\\project\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (D:\\project\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (D:\\project\\node_modules\\express\\lib\\response.js:1039:7)","level":"error","timestamp":"2023-02-28T16:39:07.614Z"}
+{"message":"Unexpected token '{' in D:\\project\\views\\addCustomer.ejs while compiling ejs\n\nIf the above error is not helpful, you may want to try EJS-Lint:\nhttps://github.com/RyanZim/EJS-Lint\nOr, if you meant to create an async function, pass `async: true` as an option.","stack":"SyntaxError: Unexpected token '{' in D:\\project\\views\\addCustomer.ejs while compiling ejs\n\nIf the above error is not helpful, you may want to try EJS-Lint:\nhttps://github.com/RyanZim/EJS-Lint\nOr, if you meant to create an async function, pass `async: true` as an option.\n    at new Function (<anonymous>)\n    at Template.compile (D:\\project\\node_modules\\ejs\\lib\\ejs.js:673:12)\n    at Object.compile (D:\\project\\node_modules\\ejs\\lib\\ejs.js:398:16)\n    at handleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:235:18)\n    at tryHandleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:274:16)\n    at exports.renderFile [as engine] (D:\\project\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (D:\\project\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (D:\\project\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (D:\\project\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (D:\\project\\node_modules\\express\\lib\\response.js:1039:7)","level":"error","timestamp":"2023-02-28T16:39:10.017Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:39:20.656Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:39:20.670Z"}
+{"message":"Unexpected token '{' in D:\\project\\views\\addCustomer.ejs while compiling ejs\n\nIf the above error is not helpful, you may want to try EJS-Lint:\nhttps://github.com/RyanZim/EJS-Lint\nOr, if you meant to create an async function, pass `async: true` as an option.","stack":"SyntaxError: Unexpected token '{' in D:\\project\\views\\addCustomer.ejs while compiling ejs\n\nIf the above error is not helpful, you may want to try EJS-Lint:\nhttps://github.com/RyanZim/EJS-Lint\nOr, if you meant to create an async function, pass `async: true` as an option.\n    at new Function (<anonymous>)\n    at Template.compile (D:\\project\\node_modules\\ejs\\lib\\ejs.js:673:12)\n    at Object.compile (D:\\project\\node_modules\\ejs\\lib\\ejs.js:398:16)\n    at handleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:235:18)\n    at tryHandleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:274:16)\n    at exports.renderFile [as engine] (D:\\project\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (D:\\project\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (D:\\project\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (D:\\project\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (D:\\project\\node_modules\\express\\lib\\response.js:1039:7)","level":"error","timestamp":"2023-02-28T16:39:36.412Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:42:35.113Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:42:35.126Z"}
+{"message":"D:\\project\\views\\addCustomer.ejs:12\n    10|                         <label for=\"firstname\" class=\"col-form-label\">First Name</label>\r\n    11|                         <input type=\"text\" class=\"form-control\" name=\"firstname\" id=\"firstname\" placeholder=\"Enter firstname\">\r\n >> 12|                         <% if (errorMessage) { %>\r\n    13|                             <div class=\"error\"><%= errorMessage %></div>\r\n    14|                         <% } %>\r\n    15|                     </div>\r\n\nerrorMessage is not defined","stack":"ReferenceError: D:\\project\\views\\addCustomer.ejs:12\n    10|                         <label for=\"firstname\" class=\"col-form-label\">First Name</label>\r\n    11|                         <input type=\"text\" class=\"form-control\" name=\"firstname\" id=\"firstname\" placeholder=\"Enter firstname\">\r\n >> 12|                         <% if (errorMessage) { %>\r\n    13|                             <div class=\"error\"><%= errorMessage %></div>\r\n    14|                         <% } %>\r\n    15|                     </div>\r\n\nerrorMessage is not defined\n    at eval (\"D:\\\\project\\\\views\\\\addCustomer.ejs\":12:8)\n    at addCustomer (D:\\project\\node_modules\\ejs\\lib\\ejs.js:703:17)\n    at tryHandleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:274:36)\n    at exports.renderFile [as engine] (D:\\project\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (D:\\project\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (D:\\project\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (D:\\project\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (D:\\project\\node_modules\\express\\lib\\response.js:1039:7)\n    at res.render (D:\\project\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:77:18)\n    at addCustomer (D:\\project\\controllers\\customerController.js:21:13)","path":"D:\\project\\views\\addCustomer.ejs","level":"error","timestamp":"2023-02-28T16:43:33.667Z"}
+{"message":"D:\\project\\views\\addCustomer.ejs:12\n    10|                         <label for=\"firstname\" class=\"col-form-label\">First Name</label>\r\n    11|                         <input type=\"text\" class=\"form-control\" name=\"firstname\" id=\"firstname\" placeholder=\"Enter firstname\">\r\n >> 12|                         <% if (errorMessage) { %>\r\n    13|                             <div class=\"error\"><%= errorMessage %></div>\r\n    14|                         <% } %>\r\n    15|                     </div>\r\n\nerrorMessage is not defined","stack":"ReferenceError: D:\\project\\views\\addCustomer.ejs:12\n    10|                         <label for=\"firstname\" class=\"col-form-label\">First Name</label>\r\n    11|                         <input type=\"text\" class=\"form-control\" name=\"firstname\" id=\"firstname\" placeholder=\"Enter firstname\">\r\n >> 12|                         <% if (errorMessage) { %>\r\n    13|                             <div class=\"error\"><%= errorMessage %></div>\r\n    14|                         <% } %>\r\n    15|                     </div>\r\n\nerrorMessage is not defined\n    at eval (\"D:\\\\project\\\\views\\\\addCustomer.ejs\":12:8)\n    at addCustomer (D:\\project\\node_modules\\ejs\\lib\\ejs.js:703:17)\n    at tryHandleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:274:36)\n    at exports.renderFile [as engine] (D:\\project\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (D:\\project\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (D:\\project\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (D:\\project\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (D:\\project\\node_modules\\express\\lib\\response.js:1039:7)\n    at res.render (D:\\project\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:77:18)\n    at getAddCustomerView (D:\\project\\controllers\\customerController.js:13:9)","path":"D:\\project\\views\\addCustomer.ejs","level":"error","timestamp":"2023-02-28T16:43:35.811Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:43:45.738Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:43:45.752Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:43:47.187Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:43:47.200Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:43:48.394Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:43:48.409Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:43:49.589Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:43:49.604Z"}
+{"message":"errorMessages is not defined","stack":"ReferenceError: errorMessages is not defined\n    at addCustomer (D:\\project\\controllers\\customerController.js:22:21)\n    at Layer.handle [as handle_request] (D:\\project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\project\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (D:\\project\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (D:\\project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\project\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (D:\\project\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (D:\\project\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (D:\\project\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (D:\\project\\node_modules\\express\\lib\\router\\index.js:47:12)","level":"error","timestamp":"2023-02-28T16:43:54.172Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:44:16.718Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:44:16.732Z"}
+{"message":"D:\\project\\views\\addCustomer.ejs:12\n    10|                         <label for=\"firstname\" class=\"col-form-label\">First Name</label>\r\n    11|                         <input type=\"text\" class=\"form-control\" name=\"firstname\" id=\"firstname\" placeholder=\"Enter firstname\">\r\n >> 12|                         <% if (errorMessage) { %>\r\n    13|                             <div class=\"error\"><%= errorMessage %></div>\r\n    14|                         <% } %>\r\n    15|                     </div>\r\n\nerrorMessage is not defined","stack":"ReferenceError: D:\\project\\views\\addCustomer.ejs:12\n    10|                         <label for=\"firstname\" class=\"col-form-label\">First Name</label>\r\n    11|                         <input type=\"text\" class=\"form-control\" name=\"firstname\" id=\"firstname\" placeholder=\"Enter firstname\">\r\n >> 12|                         <% if (errorMessage) { %>\r\n    13|                             <div class=\"error\"><%= errorMessage %></div>\r\n    14|                         <% } %>\r\n    15|                     </div>\r\n\nerrorMessage is not defined\n    at eval (\"D:\\\\project\\\\views\\\\addCustomer.ejs\":12:8)\n    at addCustomer (D:\\project\\node_modules\\ejs\\lib\\ejs.js:703:17)\n    at tryHandleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:274:36)\n    at exports.renderFile [as engine] (D:\\project\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (D:\\project\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (D:\\project\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (D:\\project\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (D:\\project\\node_modules\\express\\lib\\response.js:1039:7)\n    at res.render (D:\\project\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:77:18)\n    at getAddCustomerView (D:\\project\\controllers\\customerController.js:13:9)","path":"D:\\project\\views\\addCustomer.ejs","level":"error","timestamp":"2023-02-28T16:44:26.227Z"}
+{"message":"D:\\project\\views\\addCustomer.ejs:12\n    10|                         <label for=\"firstname\" class=\"col-form-label\">First Name</label>\r\n    11|                         <input type=\"text\" class=\"form-control\" name=\"firstname\" id=\"firstname\" placeholder=\"Enter firstname\">\r\n >> 12|                         <% if (errorMessage) { %>\r\n    13|                             <div class=\"error\"><%= errorMessage %></div>\r\n    14|                         <% } %>\r\n    15|                     </div>\r\n\nerrorMessage is not defined","stack":"ReferenceError: D:\\project\\views\\addCustomer.ejs:12\n    10|                         <label for=\"firstname\" class=\"col-form-label\">First Name</label>\r\n    11|                         <input type=\"text\" class=\"form-control\" name=\"firstname\" id=\"firstname\" placeholder=\"Enter firstname\">\r\n >> 12|                         <% if (errorMessage) { %>\r\n    13|                             <div class=\"error\"><%= errorMessage %></div>\r\n    14|                         <% } %>\r\n    15|                     </div>\r\n\nerrorMessage is not defined\n    at eval (\"D:\\\\project\\\\views\\\\addCustomer.ejs\":12:8)\n    at addCustomer (D:\\project\\node_modules\\ejs\\lib\\ejs.js:703:17)\n    at tryHandleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:274:36)\n    at exports.renderFile [as engine] (D:\\project\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (D:\\project\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (D:\\project\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (D:\\project\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (D:\\project\\node_modules\\express\\lib\\response.js:1039:7)\n    at res.render (D:\\project\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:77:18)\n    at getAddCustomerView (D:\\project\\controllers\\customerController.js:13:9)","path":"D:\\project\\views\\addCustomer.ejs","level":"error","timestamp":"2023-02-28T16:44:35.970Z"}
+{"message":"D:\\project\\views\\addCustomer.ejs:12\n    10|                         <label for=\"firstname\" class=\"col-form-label\">First Name</label>\r\n    11|                         <input type=\"text\" class=\"form-control\" name=\"firstname\" id=\"firstname\" placeholder=\"Enter firstname\">\r\n >> 12|                         <% if (errorMessage) { %>\r\n    13|                             <div class=\"error\"><%= errorMessage %></div>\r\n    14|                         <% } %>\r\n    15|                     </div>\r\n\nerrorMessage is not defined","stack":"ReferenceError: D:\\project\\views\\addCustomer.ejs:12\n    10|                         <label for=\"firstname\" class=\"col-form-label\">First Name</label>\r\n    11|                         <input type=\"text\" class=\"form-control\" name=\"firstname\" id=\"firstname\" placeholder=\"Enter firstname\">\r\n >> 12|                         <% if (errorMessage) { %>\r\n    13|                             <div class=\"error\"><%= errorMessage %></div>\r\n    14|                         <% } %>\r\n    15|                     </div>\r\n\nerrorMessage is not defined\n    at eval (\"D:\\\\project\\\\views\\\\addCustomer.ejs\":12:8)\n    at addCustomer (D:\\project\\node_modules\\ejs\\lib\\ejs.js:703:17)\n    at tryHandleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:274:36)\n    at exports.renderFile [as engine] (D:\\project\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (D:\\project\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (D:\\project\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (D:\\project\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (D:\\project\\node_modules\\express\\lib\\response.js:1039:7)\n    at res.render (D:\\project\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:77:18)\n    at getAddCustomerView (D:\\project\\controllers\\customerController.js:13:9)","path":"D:\\project\\views\\addCustomer.ejs","level":"error","timestamp":"2023-02-28T16:44:38.577Z"}
+{"message":"D:\\project\\views\\addCustomer.ejs:12\n    10|                         <label for=\"firstname\" class=\"col-form-label\">First Name</label>\r\n    11|                         <input type=\"text\" class=\"form-control\" name=\"firstname\" id=\"firstname\" placeholder=\"Enter firstname\">\r\n >> 12|                         <% if (errorMessage) { %>\r\n    13|                             <div class=\"error\"><%= errorMessage %></div>\r\n    14|                         <% } %>\r\n    15|                     </div>\r\n\nerrorMessage is not defined","stack":"ReferenceError: D:\\project\\views\\addCustomer.ejs:12\n    10|                         <label for=\"firstname\" class=\"col-form-label\">First Name</label>\r\n    11|                         <input type=\"text\" class=\"form-control\" name=\"firstname\" id=\"firstname\" placeholder=\"Enter firstname\">\r\n >> 12|                         <% if (errorMessage) { %>\r\n    13|                             <div class=\"error\"><%= errorMessage %></div>\r\n    14|                         <% } %>\r\n    15|                     </div>\r\n\nerrorMessage is not defined\n    at eval (\"D:\\\\project\\\\views\\\\addCustomer.ejs\":12:8)\n    at addCustomer (D:\\project\\node_modules\\ejs\\lib\\ejs.js:703:17)\n    at tryHandleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:274:36)\n    at exports.renderFile [as engine] (D:\\project\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (D:\\project\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (D:\\project\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (D:\\project\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (D:\\project\\node_modules\\express\\lib\\response.js:1039:7)\n    at res.render (D:\\project\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:77:18)\n    at getAddCustomerView (D:\\project\\controllers\\customerController.js:13:9)","path":"D:\\project\\views\\addCustomer.ejs","level":"error","timestamp":"2023-02-28T16:44:46.744Z"}
+{"message":"D:\\project\\views\\addCustomer.ejs:12\n    10|                         <label for=\"firstname\" class=\"col-form-label\">First Name</label>\r\n    11|                         <input type=\"text\" class=\"form-control\" name=\"firstname\" id=\"firstname\" placeholder=\"Enter firstname\">\r\n >> 12|                         <% if (errorMessage) { %>\r\n    13|                             <div class=\"error\"><%= errorMessage %></div>\r\n    14|                         <% } %>\r\n    15|                     </div>\r\n\nerrorMessage is not defined","stack":"ReferenceError: D:\\project\\views\\addCustomer.ejs:12\n    10|                         <label for=\"firstname\" class=\"col-form-label\">First Name</label>\r\n    11|                         <input type=\"text\" class=\"form-control\" name=\"firstname\" id=\"firstname\" placeholder=\"Enter firstname\">\r\n >> 12|                         <% if (errorMessage) { %>\r\n    13|                             <div class=\"error\"><%= errorMessage %></div>\r\n    14|                         <% } %>\r\n    15|                     </div>\r\n\nerrorMessage is not defined\n    at eval (\"D:\\\\project\\\\views\\\\addCustomer.ejs\":12:8)\n    at addCustomer (D:\\project\\node_modules\\ejs\\lib\\ejs.js:703:17)\n    at tryHandleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:274:36)\n    at exports.renderFile [as engine] (D:\\project\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (D:\\project\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (D:\\project\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (D:\\project\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (D:\\project\\node_modules\\express\\lib\\response.js:1039:7)\n    at res.render (D:\\project\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:77:18)\n    at getAddCustomerView (D:\\project\\controllers\\customerController.js:13:9)","path":"D:\\project\\views\\addCustomer.ejs","level":"error","timestamp":"2023-02-28T16:44:48.801Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:45:18.366Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:45:18.379Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:45:20.859Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:45:20.872Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:45:22.624Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:45:22.638Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:45:33.342Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:45:33.359Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:45:37.505Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:45:37.519Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:45:59.807Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:45:59.821Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:46:25.023Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:46:25.036Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:46:28.468Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:46:28.482Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:46:32.789Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:46:32.803Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:46:34.493Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:46:34.507Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:46:40.191Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:46:40.205Z"}
+{"message":"D:\\project\\views\\addCustomer.ejs:12\n    10|                         <label for=\"firstname\" class=\"col-form-label\">First Name</label>\r\n    11|                         <input type=\"text\" class=\"form-control\" name=\"firstname\" id=\"firstname\" placeholder=\"Enter firstname\">\r\n >> 12|                         <% if (errorMessage) { %>\r\n    13|                             <div class=\"error\"><%= errorMessage %></div>\r\n    14|                         <% } %>\r\n    15|                     </div>\r\n\nerrorMessage is not defined","stack":"ReferenceError: D:\\project\\views\\addCustomer.ejs:12\n    10|                         <label for=\"firstname\" class=\"col-form-label\">First Name</label>\r\n    11|                         <input type=\"text\" class=\"form-control\" name=\"firstname\" id=\"firstname\" placeholder=\"Enter firstname\">\r\n >> 12|                         <% if (errorMessage) { %>\r\n    13|                             <div class=\"error\"><%= errorMessage %></div>\r\n    14|                         <% } %>\r\n    15|                     </div>\r\n\nerrorMessage is not defined\n    at eval (\"D:\\\\project\\\\views\\\\addCustomer.ejs\":12:8)\n    at addCustomer (D:\\project\\node_modules\\ejs\\lib\\ejs.js:703:17)\n    at tryHandleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:274:36)\n    at exports.renderFile [as engine] (D:\\project\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (D:\\project\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (D:\\project\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (D:\\project\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (D:\\project\\node_modules\\express\\lib\\response.js:1039:7)\n    at res.render (D:\\project\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:77:18)\n    at getAddCustomerView (D:\\project\\controllers\\customerController.js:13:9)","path":"D:\\project\\views\\addCustomer.ejs","level":"error","timestamp":"2023-02-28T16:46:49.691Z"}
+{"message":"D:\\project\\views\\addCustomer.ejs:12\n    10|                         <label for=\"firstname\" class=\"col-form-label\">First Name</label>\r\n    11|                         <input type=\"text\" class=\"form-control\" name=\"firstname\" id=\"firstname\" placeholder=\"Enter firstname\">\r\n >> 12|                         <% if (errorMessage) { %>\r\n    13|                             <div class=\"error\"><%= errorMessage %></div>\r\n    14|                         <% } %>\r\n    15|                     </div>\r\n\nerrorMessage is not defined","stack":"ReferenceError: D:\\project\\views\\addCustomer.ejs:12\n    10|                         <label for=\"firstname\" class=\"col-form-label\">First Name</label>\r\n    11|                         <input type=\"text\" class=\"form-control\" name=\"firstname\" id=\"firstname\" placeholder=\"Enter firstname\">\r\n >> 12|                         <% if (errorMessage) { %>\r\n    13|                             <div class=\"error\"><%= errorMessage %></div>\r\n    14|                         <% } %>\r\n    15|                     </div>\r\n\nerrorMessage is not defined\n    at eval (\"D:\\\\project\\\\views\\\\addCustomer.ejs\":12:8)\n    at addCustomer (D:\\project\\node_modules\\ejs\\lib\\ejs.js:703:17)\n    at tryHandleCache (D:\\project\\node_modules\\ejs\\lib\\ejs.js:274:36)\n    at exports.renderFile [as engine] (D:\\project\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (D:\\project\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (D:\\project\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (D:\\project\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (D:\\project\\node_modules\\express\\lib\\response.js:1039:7)\n    at res.render (D:\\project\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:77:18)\n    at getAddCustomerView (D:\\project\\controllers\\customerController.js:13:9)","path":"D:\\project\\views\\addCustomer.ejs","level":"error","timestamp":"2023-02-28T16:46:53.544Z"}
+{"level":"info","message":"App is listining on3000","timestamp":"2023-02-28T16:47:30.350Z"}
+{"level":"info","message":"MongoDB connected successfully...","timestamp":"2023-02-28T16:47:30.363Z"}
